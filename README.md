@@ -8,4 +8,6 @@ Mamma Mia employs a modern-day intuition of managing a restaurant's diners at ea
 ### Bill Calculation
 
 Technologies used: Java, XML, SQLite Database.
-App Layout to be updated soon.
+App Screenshots are in the 'screenshots' folder.
+To test the APK, import code and open in Android Studio and run.
+For the APK file, feel free to contact me at navneeth dot padaki15 at gmail dot com. :)
